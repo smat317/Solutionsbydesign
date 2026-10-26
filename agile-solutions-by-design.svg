@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Agile Solutions by Design</title>
+  <desc id="desc">Agile Solutions by Design wordmark with a forward-moving technical mark.</desc>
+  <g transform="translate(8 12) scale(1.26)">
+    <path d="M12 50c0-21 17-38 38-38h25L57 30H50c-11 0-20 9-20 20s9 20 20 20h11L41 90h-3C23 86 12 69 12 50Z" fill="#087fa8"/>
+    <path d="M48 58 78 25v16l18-21h19L79 61V45L60 68H50Z" fill="#18bfae"/>
+    <path d="M72 12h15c22 0 39 17 39 38S109 88 87 88H67l18-20h2c10 0 18-8 18-18s-8-18-18-18h-2Z" fill="#10283a"/>
+    <path d="M101 12h18v7h-18zm10 20h20v7h-20zm-2 20h20v7h-20z" fill="#087fa8"/>
+  </g>
+  <text x="190" y="94" fill="#10283a" font-family="Manrope, Arial, sans-serif" font-size="60" font-weight="800">Agile Solutions by Design</text>
+</svg>
